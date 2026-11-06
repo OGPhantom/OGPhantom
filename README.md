@@ -1,7 +1,6 @@
 ### Hi, I'm Nikita 👋
 
-Mobile engineer working with **React Native**, **iOS (SwiftUI)** and **Flutter**, with an **MSc in Artificial Intelligence**. I like apps that do clever things on the device and still feel calm to use.
-
+Mobile engineer working with **React Native**, **iOS (SwiftUI)** and **Flutter**, with an **MSc in Artificial Intelligence**
 #### 📱 On the App Store
 
 - **[Detent](https://ogphantom.github.io/detent-site/)**: a one-switch lock for your iPhone that only time can open. Coming in November 2026.
