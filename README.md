@@ -3,7 +3,7 @@
 Mobile engineer working with **React Native**, **iOS (SwiftUI)** and **Flutter**, with an **MSc in Artificial Intelligence**
 #### 📱 On the App Store
 
-- **[Detent](https://ogphantom.github.io/detent-site/)**: a one-switch lock for your iPhone that only time can open. Coming in November 2026.
+- **[Detent](https://apps.apple.com/app/id6829272946)**: a one-switch lock for iPhone and iPad that only time can open. Approved by Apple, on the App Store from 1 December 2026, pre-order now · [website](https://ogphantom.github.io/detent-site/).
 
 #### 🚧 On the way to the App Store
 
